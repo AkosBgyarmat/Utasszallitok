@@ -81,7 +81,7 @@ class Sebessegkategoria
 
         Console.WriteLine();
         //6.feladat
-        Console.WriteLine("6.feladat");
+        Console.WriteLine("6.feladat:");
 
         Repulogep legtobbUtasRepulogep = null;
         int maxUtas = 0;
